@@ -27,7 +27,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 -- Uncomment the following library declaration if instantiating
 -- any Xilinx primitives in this code.
 --library UNISIM;
---use UNISIM.VComponents.all;
+--use UNISIM.VComponents.all ;
 
 entity CE1_shell is
     Port ( A : in  STD_LOGIC;
